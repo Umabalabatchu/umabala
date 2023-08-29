@@ -249,6 +249,16 @@ const Popularevents = [
 function App() {
   return (
     <div>
+      {/* ICC MEN'S CRICKET WORLD CUP INDIA 2023  */}
+      <img
+        src="https://assets-in.bmscdn.com/discovery-catalog/collections/tr:w-1440,h-120:q-80/icc-cwc-banner-collection-202308220156.png"
+        style={{
+          width: "90%",
+          marginLeft: "5%",
+          marginRight: "5%",
+          marginBottom: "5%",
+        }}
+      ></img>
       {/* Recomended Movies */}
       <div className="movies">
         <div className="Movies">

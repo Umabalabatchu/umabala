@@ -1,6 +1,7 @@
 .Movies {
   display: flex;
-  justify-content: space-between;
+  gap: 30px;
+  /* justify-content: space-between; */
   margin: 0 5% 0 5%;
 }
 .movies {
@@ -11,6 +12,6 @@
   color: aliceblue;
 }
 .divs {
-  width: "500px";
+  width: "11%";
   height: "400px";
 }
