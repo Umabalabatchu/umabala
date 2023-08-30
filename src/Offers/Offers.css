@@ -1,0 +1,15 @@
+.offers {
+  display: flex;
+  gap: 50px;
+
+  flex-wrap: wrap;
+}
+.offer-details {
+  width: 190px;
+  padding: 5px;
+  border-radius: 5px;
+  box-shadow: 1px 1px 5px 5px rgb(223, 219, 219);
+}
+.offer-details img {
+  width: 190px;
+}

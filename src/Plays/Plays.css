@@ -1,0 +1,11 @@
+.play-details {
+  display: flex;
+  flex-wrap: wrap;
+
+  gap: 30px;
+}
+.details-play {
+  border-radius: 5px;
+  border: 2px solid gray;
+  box-shadow: 5px 5px gray;
+}

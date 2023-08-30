@@ -1,0 +1,15 @@
+.main-container {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  gap: 0px;
+}
+
+.moviesimages {
+  width: 225px;
+  border-radius: 10px;
+}
+p {
+  font-size: 20px;
+  font-weight: 700;
+}
